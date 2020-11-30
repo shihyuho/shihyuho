@@ -12,11 +12,16 @@ I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼.
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
+#### 🗣️ My talks
+
+- Speaker Deck - https://speakerdeck.com/shihyuho
+- SlideShare - https://www.slideshare.net/MattHo2
+
 #### 📫 How to reach me
 
-- Mail: methodho@gmail.com
-- Linkedin: https://www.linkedin.com/in/methodho/
-- Facebook: https://www.facebook.com/evermatt
+- Mail - methodho@gmail.com
+- LinkedIn - https://www.linkedin.com/in/methodho/
+- Facebook - https://www.facebook.com/evermatt
 
 <!--
 **shihyuho/shihyuho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

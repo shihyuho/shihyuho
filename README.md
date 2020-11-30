@@ -15,8 +15,6 @@ I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼.
 - [shihyuho/ithome-kubernetes-summit-2018](https://github.com/shihyuho/ithome-kubernetes-summit-2018) - From Docker Swarm to Kubernetes
 - [shihyuho/jcconf2020-observing-in-microservices](https://github.com/shihyuho/jcconf2020-observing-in-microservices) - Lessons learned observing in Microservices
 - [shihyuho/composes](https://github.com/shihyuho/composes) - A collection of docker-compose I use.
-- [shihyuho/go-gitignore](https://github.com/shihyuho/go-gitignore) - To fetches a .gitignore from gitignore.io.
-- [shihyuho/zsh-jenv-lazy](https://github.com/shihyuho/zsh-jenv-lazy) - A ZSH plugin for lazy loading of jEnv.
 
 #### 📫 How to reach me
 

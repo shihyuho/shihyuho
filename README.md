@@ -16,10 +16,15 @@ I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼.
 - [shihyuho/jcconf2020-observing-in-microservices](https://github.com/shihyuho/jcconf2020-observing-in-microservices) - Lessons learned observing in Microservices
 - [shihyuho/composes](https://github.com/shihyuho/composes) - A collection of docker-compose I use.
 
+#### 🗣️ My talks
+
+- Speaker Deck - https://speakerdeck.com/shihyuho
+- SlideShare - https://www.slideshare.net/MattHo2
+
 #### 📫 How to reach me
 
-- Mail: methodho@gmail.com
-- Linkedin: https://www.linkedin.com/in/methodho/
-- Facebook: https://www.facebook.com/evermatt
+- Mail - methodho@gmail.com
+- LinkedIn - https://www.linkedin.com/in/methodho/
+- Facebook - https://www.facebook.com/evermatt
 
 

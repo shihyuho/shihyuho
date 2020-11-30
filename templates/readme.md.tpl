@@ -8,7 +8,7 @@ I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼.
 {{- end}}
 
 #### 🌱 My latest repositories
-{{range recentRepos 5}}
+{{range recentRepos 3}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 

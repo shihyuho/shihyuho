@@ -7,8 +7,6 @@ I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼.
 - [softleader/softleader-training-course](https://github.com/softleader/softleader-training-course) - 松凌科技教育訓練專區 (5 days ago)
 - [shihyuho/jcconf2020-observing-in-microservices](https://github.com/shihyuho/jcconf2020-observing-in-microservices) - Lessons learned observing in Microservices (1 week ago)
 - [shihyuho/ithome-kubernetes-summit-2018](https://github.com/shihyuho/ithome-kubernetes-summit-2018) - From Docker Swarm to Kubernetes (1 week ago)
-- [shihyuho/dotfiles](https://github.com/shihyuho/dotfiles) -  (1 month ago)
-- [softleader/dockerfile](https://github.com/softleader/dockerfile) - A collection of Dockerfile for SoftLeader (1 month ago)
 
 #### 🌱 My latest repositories
 

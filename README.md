@@ -10,9 +10,9 @@ I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼.
 
 #### 🌱 My latest repositories
 
+- [shihyuho/test](https://github.com/shihyuho/test) - 
 - [shihyuho/tekton-pipelines-example](https://github.com/shihyuho/tekton-pipelines-example) - Kubernetes pipelines example based on Tekton
 - [shihyuho/ithome-kubernetes-summit-2018](https://github.com/shihyuho/ithome-kubernetes-summit-2018) - From Docker Swarm to Kubernetes
-- [shihyuho/jcconf2020-observing-in-microservices](https://github.com/shihyuho/jcconf2020-observing-in-microservices) - Lessons learned observing in Microservices
 
 #### 🗣️ My talks
 

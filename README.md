@@ -4,15 +4,15 @@ I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼.
 
 #### 👷 Check out what I'm currently working on
 
-- [shihyuho/tdd-workshop](https://github.com/shihyuho/tdd-workshop) -  (today)
+- [shihyuho/tdd-workshop](https://github.com/shihyuho/tdd-workshop) - 參加91哥的企業內訓課程 (today)
 - [softleader/softleader-training-course](https://github.com/softleader/softleader-training-course) - 松凌科技教育訓練專區 (1 week ago)
 - [softleader/dockerfile](https://github.com/softleader/dockerfile) - A collection of Dockerfile for SoftLeader (3 weeks ago)
 
 #### 🌱 My latest repositories
 
-- [shihyuho/tdd-workshop](https://github.com/shihyuho/tdd-workshop) - 
-- [shihyuho/test](https://github.com/shihyuho/test) - 
+- [shihyuho/tdd-workshop](https://github.com/shihyuho/tdd-workshop) - 參加91哥的企業內訓課程
 - [shihyuho/tekton-pipelines-example](https://github.com/shihyuho/tekton-pipelines-example) - Kubernetes pipelines example based on Tekton
+- [shihyuho/ithome-kubernetes-summit-2018](https://github.com/shihyuho/ithome-kubernetes-summit-2018) - From Docker Swarm to Kubernetes
 
 #### 🗣️ My talks
 

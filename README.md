@@ -5,8 +5,8 @@ I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼.
 #### 👷 Check out what I'm currently working on
 
 - [shihyuho/tdd-workshop](https://github.com/shihyuho/tdd-workshop) - 參加91哥的企業內訓課程 (1 week ago)
-- [softleader/softleader-training-course](https://github.com/softleader/softleader-training-course) - 松凌科技教育訓練專區 (2 weeks ago)
-- [softleader/dockerfile](https://github.com/softleader/dockerfile) - A collection of Dockerfile for SoftLeader (4 weeks ago)
+- [softleader/softleader-training-course](https://github.com/softleader/softleader-training-course) - 松凌科技教育訓練專區 (3 weeks ago)
+- [softleader/dockerfile](https://github.com/softleader/dockerfile) - A collection of Dockerfile for SoftLeader (1 month ago)
 
 #### 🌱 My latest repositories
 

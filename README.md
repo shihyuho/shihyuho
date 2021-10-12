@@ -6,15 +6,15 @@ Check out my [🌱 PKM](https://shihyuho.github.io/pkm/)
 
 #### 👷 Check out what I'm currently working on
 
+- [shihyuho/practice](https://github.com/shihyuho/practice) -  (today)
 - [shihyuho/go-jenkins-trigger](https://github.com/shihyuho/go-jenkins-trigger) - GitHub Action to trigger Jenkins job in Go (5 days ago)
 - [softleader/jenkins-pipeline-examples](https://github.com/softleader/jenkins-pipeline-examples) - A collection of examples scripting for the Jenkins Pipeline. (2 months ago)
-- [softleader/softleader-training-course](https://github.com/softleader/softleader-training-course) - 松凌科技教育訓練專區 (2 months ago)
 
 #### ⚡ My latest repositories
 
+- [shihyuho/practice](https://github.com/shihyuho/practice) - 
 - [shihyuho/go-jenkins-trigger](https://github.com/shihyuho/go-jenkins-trigger) - GitHub Action to trigger Jenkins job in Go
 - [shihyuho/tdd-workshop](https://github.com/shihyuho/tdd-workshop) - 參加91哥的企業內訓課程
-- [shihyuho/tekton-pipelines-example](https://github.com/shihyuho/tekton-pipelines-example) - Kubernetes pipelines example based on Tekton
 
 #### 🗣️ My talks
 

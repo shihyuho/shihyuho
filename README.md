@@ -6,7 +6,7 @@ Check out my [🌱 PKM](https://shihyuho.github.io/pkm/)
 
 #### 👷 Check out what I'm currently working on
 
-- [softleader/softleader-training-course](https://github.com/softleader/softleader-training-course) - 松凌科技教育訓練專區 (3 days ago)
+- [softleader/softleader-training-course](https://github.com/softleader/softleader-training-course) - 松凌科技教育訓練專區 (4 days ago)
 - [softleader/jenkins-pipeline-examples](https://github.com/softleader/jenkins-pipeline-examples) - A collection of examples scripting for the Jenkins Pipeline. (1 month ago)
 - [softleader/dockerfile](https://github.com/softleader/dockerfile) - A collection of Dockerfile for SoftLeader (1 month ago)
 

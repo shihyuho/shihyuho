@@ -6,9 +6,9 @@ Check out my [🌱 PKM](https://shihyuho.github.io/pkm/)
 
 #### 👷 Check out what I'm currently working on
 
+- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - An alternative API Specification API for Spring Data JPA (today)
 - [softleader/jenkins-pipeline-examples](https://github.com/softleader/jenkins-pipeline-examples) - A collection of examples scripting for the Jenkins Pipeline. (2 weeks ago)
 - [softleader/dockerfile](https://github.com/softleader/dockerfile) - A collection of Dockerfile for SoftLeader (3 weeks ago)
-- [softleader/softleader-training-course](https://github.com/softleader/softleader-training-course) - 松凌科技教育訓練專區 (4 weeks ago)
 
 #### ⚡ My latest repositories
 

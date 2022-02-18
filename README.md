@@ -7,14 +7,14 @@ Check out my [🌱 PKM](https://shihyuho.github.io/pkm/)
 #### 👷 Check out what I'm currently working on
 
 - [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - An alternative Specification API for Spring Data JPA (today)
-- [shihyuho/test](https://github.com/shihyuho/test) -  (today)
 - [softleader/pagination-stream](https://github.com/softleader/pagination-stream) - Pagination stream API (today)
+- [softleader/jenkins-pipeline-examples](https://github.com/softleader/jenkins-pipeline-examples) - A collection of examples scripting for the Jenkins Pipeline. (3 weeks ago)
 
 #### ⚡ My latest repositories
 
-- [shihyuho/test](https://github.com/shihyuho/test) - 
 - [shihyuho/go-jenkins-trigger](https://github.com/shihyuho/go-jenkins-trigger) - GitHub Action to trigger Jenkins job in Go
 - [shihyuho/jcconf2021-access-kubernetes-api-in-java](https://github.com/shihyuho/jcconf2021-access-kubernetes-api-in-java) - Access Kubernetes API in Java
+- [shihyuho/tdd-workshop](https://github.com/shihyuho/tdd-workshop) - 參加91哥的企業內訓課程
 
 #### 🗣️ My talks
 

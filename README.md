@@ -8,7 +8,7 @@ Check out my [🌱 PKM](https://shihyuho.github.io/pkm/)
 
 - [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - An alternative Specification API for Spring Data JPA (today)
 - [shihyuho/test](https://github.com/shihyuho/test) -  (today)
-- [softleader/pagination-stream](https://github.com/softleader/pagination-stream) - Pagination stream API (1 day ago)
+- [softleader/pagination-stream](https://github.com/softleader/pagination-stream) - Pagination stream API (today)
 
 #### ⚡ My latest repositories
 

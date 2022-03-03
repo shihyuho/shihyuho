@@ -1,4 +1,4 @@
-![GitHub followers](https://img.shields.io/github/followers/shihyuho?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/shihyuho?style=social)](https://github.com/shihyuho?tab=followers)
 ![GitHub User's stars](https://img.shields.io/github/stars/shihyuho?style=social)
 
 ### Hi there 👋

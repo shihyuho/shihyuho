@@ -1,3 +1,6 @@
+![GitHub followers](https://img.shields.io/github/followers/shihyuho?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/shihyuho?style=social)
+
 ### Hi there 👋
 
 I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼. 

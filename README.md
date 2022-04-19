@@ -11,7 +11,7 @@ Check out my [🌱 PKM](https://shihyuho.github.io/pkm/)
 
 - [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - An alternative Specification API for Spring Data JPA (1 week ago)
 - [softleader/dockerfile](https://github.com/softleader/dockerfile) - A collection of Dockerfile for SoftLeader (1 month ago)
-- [softleader/pagination-stream](https://github.com/softleader/pagination-stream) - Pagination stream API (1 month ago)
+- [softleader/pagination-stream](https://github.com/softleader/pagination-stream) - Pagination stream API (2 months ago)
 
 #### ⚡ My latest repositories
 

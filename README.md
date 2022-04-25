@@ -9,7 +9,7 @@ Check out my [🌱 PKM](https://shihyuho.github.io/pkm/)
 
 #### 👷 Check out what I'm currently working on
 
-- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - An alternative Specification API for Spring Data JPA (1 day ago)
+- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - An alternative Specification API for Spring Data JPA (2 days ago)
 - [softleader/dockerfile](https://github.com/softleader/dockerfile) - A collection of Dockerfile for SoftLeader (2 months ago)
 - [softleader/pagination-stream](https://github.com/softleader/pagination-stream) - Pagination stream API (2 months ago)
 

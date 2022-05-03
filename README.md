@@ -5,7 +5,7 @@
 
 I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼. 
 
-Check out my [🌱 PKM](https://shihyuho.github.io/pkm/)
+
 
 #### 👷 Check out what I'm currently working on
 

@@ -9,7 +9,7 @@ I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼.
 
 #### 👷 Check out what I'm currently working on
 
-- [softleader/nginx-redis-proxy](https://github.com/softleader/nginx-redis-proxy) - Nginx as reverse proxy using Redis (1 day ago)
+- [softleader/nginx-redis-proxy](https://github.com/softleader/nginx-redis-proxy) - Nginx as reverse proxy using Redis (today)
 - [softleader/dockerfile](https://github.com/softleader/dockerfile) - A collection of Dockerfile for SoftLeader (2 weeks ago)
 - [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - An alternative Specification API for Spring Data JPA (3 weeks ago)
 

@@ -9,9 +9,9 @@ I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼.
 
 #### 👷 Check out what I'm currently working on
 
-- [softleader/pagination-stream](https://github.com/softleader/pagination-stream) - Pagination stream API (1 day ago)
-- [softleader/.github](https://github.com/softleader/.github) - SoftLeader Organizational .github directory (3 days ago)
-- [softleader/nginx-redis-proxy](https://github.com/softleader/nginx-redis-proxy) - Nginx as reverse proxy using Redis (5 days ago)
+- [softleader/pagination-stream](https://github.com/softleader/pagination-stream) - Pagination stream API (2 days ago)
+- [softleader/.github](https://github.com/softleader/.github) - SoftLeader Organizational .github directory (4 days ago)
+- [softleader/nginx-redis-proxy](https://github.com/softleader/nginx-redis-proxy) - Nginx as reverse proxy using Redis (6 days ago)
 
 #### ⚡ My latest repositories
 

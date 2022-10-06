@@ -15,9 +15,9 @@ I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼.
 
 #### ⚡ My latest repositories
 
-- [shihyuho/jcconf2022-ArchUnit](https://github.com/shihyuho/jcconf2022-ArchUnit) - 
 - [shihyuho/hybrid-cloud-2022](https://github.com/shihyuho/hybrid-cloud-2022) - 金融業混合雲應用研討會
 - [shihyuho/go-jenkins-trigger](https://github.com/shihyuho/go-jenkins-trigger) - GitHub Action to trigger Jenkins job in Go
+- [shihyuho/jcconf2021-access-kubernetes-api-in-java](https://github.com/shihyuho/jcconf2021-access-kubernetes-api-in-java) - Access Kubernetes API in Java
 
 #### 🗣️ My talks
 

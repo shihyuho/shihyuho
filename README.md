@@ -9,8 +9,8 @@ I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼.
 
 #### 👷 Check out what I'm currently working on
 
+- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - An alternative Specification API for Spring Data JPA (today)
 - [shihyuho/jcconf2022-ArchUnit](https://github.com/shihyuho/jcconf2022-ArchUnit) - Using ArchUnit to test your architecture (today)
-- [softleader/.github](https://github.com/softleader/.github) - SoftLeader Organizational .github directory (3 weeks ago)
 - [softleader/dockerfile](https://github.com/softleader/dockerfile) - A collection of Dockerfile for SoftLeader (3 weeks ago)
 
 #### ⚡ My latest repositories

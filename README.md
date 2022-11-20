@@ -11,7 +11,7 @@ I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼.
 
 - [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using) (3 weeks ago)
 - [shihyuho/argo](https://github.com/shihyuho/argo) -  (1 month ago)
-- [shihyuho/jcconf2022-ArchUnit](https://github.com/shihyuho/jcconf2022-ArchUnit) - Using ArchUnit to test your architecture (1 month ago)
+- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - An alternative Specification API for Spring Data JPA (1 month ago)
 
 #### ⚡ My latest repositories
 

@@ -9,15 +9,15 @@ I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼.
 
 #### 👷 Check out what I'm currently working on
 
+- [shihyuho/nuxt-buildah](https://github.com/shihyuho/nuxt-buildah) - for buildah pipeline testing (today)
 - [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - An alternative Specification API for Spring Data JPA (1 week ago)
 - [softleader/dockerfile](https://github.com/softleader/dockerfile) - A collection of Dockerfile for SoftLeader (2 weeks ago)
-- [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using) (2 months ago)
 
 #### ⚡ My latest repositories
 
+- [shihyuho/nuxt-buildah](https://github.com/shihyuho/nuxt-buildah) - for buildah pipeline testing
 - [shihyuho/argo](https://github.com/shihyuho/argo) - 
 - [shihyuho/jcconf2022-ArchUnit](https://github.com/shihyuho/jcconf2022-ArchUnit) - Using ArchUnit to test your architecture
-- [shihyuho/hybrid-cloud-2022](https://github.com/shihyuho/hybrid-cloud-2022) - 金融業混合雲應用研討會
 
 #### 🗣️ My talks
 

@@ -10,7 +10,7 @@ I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼.
 #### 👷 Check out what I'm currently working on
 
 - [shihyuho/tmp](https://github.com/shihyuho/tmp) -  (1 day ago)
-- [softleader/pagination-stream](https://github.com/softleader/pagination-stream) - Pagination stream API (1 week ago)
+- [softleader/pagination-stream](https://github.com/softleader/pagination-stream) - Steam support for Spring pagination (1 week ago)
 - [softleader/softleader-training-course](https://github.com/softleader/softleader-training-course) - 松凌科技教育訓練專區 (1 month ago)
 
 #### ⚡ My latest repositories

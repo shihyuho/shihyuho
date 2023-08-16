@@ -9,15 +9,15 @@ I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼.
 
 #### 👷 Check out what I'm currently working on
 
+- [shihyuho/go-spring-version](https://github.com/shihyuho/go-spring-version) - GitHub Action to fetch Spring version in Go (today)
 - [softleader/dockerfile](https://github.com/softleader/dockerfile) - A collection of Dockerfile for SoftLeader (4 days ago)
 - [softleader/jenkins-pipeline-examples](https://github.com/softleader/jenkins-pipeline-examples) - A collection of examples scripting for the Jenkins Pipeline. (6 days ago)
-- [softleader/softleader-training-course](https://github.com/softleader/softleader-training-course) - 松凌科技教育訓練專區 (2 weeks ago)
 
 #### ⚡ My latest repositories
 
+- [shihyuho/go-spring-version](https://github.com/shihyuho/go-spring-version) - GitHub Action to fetch Spring version in Go
 - [shihyuho/jcconf2022-ArchUnit](https://github.com/shihyuho/jcconf2022-ArchUnit) - Using ArchUnit to test your architecture
 - [shihyuho/hybrid-cloud-2022](https://github.com/shihyuho/hybrid-cloud-2022) - 金融業混合雲應用研討會
-- [shihyuho/go-jenkins-trigger](https://github.com/shihyuho/go-jenkins-trigger) - GitHub Action to trigger Jenkins job in Go
 
 #### 🗣️ My talks
 

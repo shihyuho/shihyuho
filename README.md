@@ -9,15 +9,15 @@ I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼.
 
 #### 👷 Check out what I'm currently working on
 
-- [shihyuho/test](https://github.com/shihyuho/test) -  (today)
 - [softleader/softleader-training-course](https://github.com/softleader/softleader-training-course) - 松凌科技教育訓練專區 (1 day ago)
 - [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - An alternative Specification API for Spring Data JPA (4 days ago)
+- [shihyuho/go-spring-version](https://github.com/shihyuho/go-spring-version) - GitHub Action to get the latest Spring version (1 month ago)
 
 #### ⚡ My latest repositories
 
-- [shihyuho/test](https://github.com/shihyuho/test) - 
 - [shihyuho/go-spring-version](https://github.com/shihyuho/go-spring-version) - GitHub Action to get the latest Spring version
 - [shihyuho/jcconf2022-ArchUnit](https://github.com/shihyuho/jcconf2022-ArchUnit) - Using ArchUnit to test your architecture
+- [shihyuho/hybrid-cloud-2022](https://github.com/shihyuho/hybrid-cloud-2022) - 金融業混合雲應用研討會
 
 #### 🗣️ My talks
 

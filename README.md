@@ -9,8 +9,8 @@ I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼.
 
 #### 👷 Check out what I'm currently working on
 
-- [shihyuho/go-spring-version](https://github.com/shihyuho/go-spring-version) - GitHub Action to get the latest Spring version (today)
-- [softleader/dockerfile](https://github.com/softleader/dockerfile) - A collection of Dockerfile for SoftLeader (2 weeks ago)
+- [shihyuho/go-spring-version](https://github.com/shihyuho/go-spring-version) - GitHub Action to get the latest Spring version (1 day ago)
+- [softleader/dockerfile](https://github.com/softleader/dockerfile) - A collection of Dockerfile for SoftLeader (3 weeks ago)
 - [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - An alternative Specification API for Spring Data JPA (3 weeks ago)
 
 #### ⚡ My latest repositories

@@ -10,7 +10,7 @@ I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼.
 #### 👷 Check out what I'm currently working on
 
 - [softleader/jib-jvm-flags-extension-maven](https://github.com/softleader/jib-jvm-flags-extension-maven) - Jib JVM Flags extension (today)
-- [softleader/memory-calculator](https://github.com/softleader/memory-calculator) - JVM Memory Calculator (1 day ago)
+- [softleader/memory-calculator](https://github.com/softleader/memory-calculator) - JVM Memory Calculator (today)
 - [softleader/dockerfile](https://github.com/softleader/dockerfile) - A collection of Dockerfile for SoftLeader (3 days ago)
 
 #### ⚡ My latest repositories

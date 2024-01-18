@@ -10,14 +10,14 @@ I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼.
 #### 👷 Check out what I'm currently working on
 
 - [softleader/memory-calculator](https://github.com/softleader/memory-calculator) - JVM Memory Calculator (today)
+- [shihyuho/test-go](https://github.com/shihyuho/test-go) -  (today)
 - [softleader/tac-consult](https://github.com/softleader/tac-consult) -  (today)
-- [softleader/jib-jvm-flags-extension-maven](https://github.com/softleader/jib-jvm-flags-extension-maven) - Jib JVM Flags extension (3 days ago)
 
 #### ⚡ My latest repositories
 
+- [shihyuho/test-go](https://github.com/shihyuho/test-go) - 
 - [shihyuho/go-spring-version](https://github.com/shihyuho/go-spring-version) - GitHub Action to get the latest Spring version
 - [shihyuho/jcconf2022-ArchUnit](https://github.com/shihyuho/jcconf2022-ArchUnit) - Using ArchUnit to test your architecture
-- [shihyuho/hybrid-cloud-2022](https://github.com/shihyuho/hybrid-cloud-2022) - 金融業混合雲應用研討會
 
 #### 🗣️ My talks
 

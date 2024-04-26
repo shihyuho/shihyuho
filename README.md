@@ -9,9 +9,9 @@ I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼.
 
 #### 👷 Check out what I'm currently working on
 
-- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - An alternative Specification API for Spring Data JPA (today)
-- [shihyuho/anonymous-configurer-issue](https://github.com/shihyuho/anonymous-configurer-issue) - Sample code to report to Spring team (3 days ago)
-- [softleader/softleader-training-course](https://github.com/softleader/softleader-training-course) - 松凌科技教育訓練專區 (6 days ago)
+- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - An alternative Specification API for Spring Data JPA (1 day ago)
+- [shihyuho/anonymous-configurer-issue](https://github.com/shihyuho/anonymous-configurer-issue) - Sample code to report to Spring team (4 days ago)
+- [softleader/softleader-training-course](https://github.com/softleader/softleader-training-course) - 松凌科技教育訓練專區 (1 week ago)
 
 #### ⚡ My latest repositories
 

@@ -9,8 +9,8 @@ I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼.
 
 #### 👷 Check out what I'm currently working on
 
-- [softleader/memory-calculator](https://github.com/softleader/memory-calculator) - JVM Memory Calculator (today)
-- [shihyuho/anonymous-configurer-issue](https://github.com/shihyuho/anonymous-configurer-issue) - Sample code to report to Spring team (6 days ago)
+- [softleader/memory-calculator](https://github.com/softleader/memory-calculator) - JVM Memory Calculator (1 day ago)
+- [shihyuho/anonymous-configurer-issue](https://github.com/shihyuho/anonymous-configurer-issue) - Sample code to report to Spring team (1 week ago)
 - [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - An alternative Specification API for Spring Data JPA (1 week ago)
 
 #### ⚡ My latest repositories

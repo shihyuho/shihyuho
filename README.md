@@ -15,9 +15,9 @@ I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼.
 
 #### ⚡ My latest repositories
 
+- [shihyuho/test](https://github.com/shihyuho/test) - 
 - [shihyuho/anonymous-configurer-issue](https://github.com/shihyuho/anonymous-configurer-issue) - Sample code to report to Spring team
 - [shihyuho/go-spring-version](https://github.com/shihyuho/go-spring-version) - GitHub Action to get the latest Spring version
-- [shihyuho/jcconf2022-ArchUnit](https://github.com/shihyuho/jcconf2022-ArchUnit) - Using ArchUnit to test your architecture
 
 #### 🗣️ My talks
 

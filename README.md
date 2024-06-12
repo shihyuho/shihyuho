@@ -9,15 +9,15 @@ I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼.
 
 #### 👷 Check out what I'm currently working on
 
+- [shihyuho/jcconf2024-jib-in-action](https://github.com/shihyuho/jcconf2024-jib-in-action) -  (today)
 - [softleader/.github](https://github.com/softleader/.github) - SoftLeader Organizational .github directory (today)
 - [softleader/memory-calculator](https://github.com/softleader/memory-calculator) - JVM Memory Calculator (1 week ago)
-- [shihyuho/anonymous-configurer-issue](https://github.com/shihyuho/anonymous-configurer-issue) - Sample code to report to Spring team (1 month ago)
 
 #### ⚡ My latest repositories
 
+- [shihyuho/jcconf2024-jib-in-action](https://github.com/shihyuho/jcconf2024-jib-in-action) - 
 - [shihyuho/anonymous-configurer-issue](https://github.com/shihyuho/anonymous-configurer-issue) - Sample code to report to Spring team
 - [shihyuho/go-spring-version](https://github.com/shihyuho/go-spring-version) - GitHub Action to get the latest Spring version
-- [shihyuho/jcconf2022-ArchUnit](https://github.com/shihyuho/jcconf2022-ArchUnit) - Using ArchUnit to test your architecture
 
 #### 🗣️ My talks
 

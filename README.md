@@ -9,8 +9,8 @@ I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼.
 
 #### 👷 Check out what I'm currently working on
 
-- [shihyuho/jcconf2024-jib-in-action](https://github.com/shihyuho/jcconf2024-jib-in-action) -  (today)
-- [softleader/.github](https://github.com/softleader/.github) - SoftLeader Organizational .github directory (today)
+- [shihyuho/jcconf2024-jib-in-action](https://github.com/shihyuho/jcconf2024-jib-in-action) -  (1 day ago)
+- [softleader/.github](https://github.com/softleader/.github) - SoftLeader Organizational .github directory (1 day ago)
 - [softleader/memory-calculator](https://github.com/softleader/memory-calculator) - JVM Memory Calculator (1 week ago)
 
 #### ⚡ My latest repositories

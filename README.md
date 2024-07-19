@@ -16,7 +16,7 @@ I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼.
 #### ⚡ My latest repositories
 
 - [shihyuho/test](https://github.com/shihyuho/test) - 
-- [shihyuho/jcconf2024-jib-in-action](https://github.com/shihyuho/jcconf2024-jib-in-action) - 
+- [shihyuho/jcconf2024-jib-in-action](https://github.com/shihyuho/jcconf2024-jib-in-action) - Talk about Jib&#39;s benefits, usage, and extending its functionality.
 - [shihyuho/anonymous-configurer-issue](https://github.com/shihyuho/anonymous-configurer-issue) - Sample code to report to Spring team
 
 #### 🗣️ My talks

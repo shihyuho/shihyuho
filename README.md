@@ -3,10 +3,6 @@
 
 ### Hi there 👋
 
-I'm Shihyu! I'm a Java Programmer in Taiwan - 🇹🇼. 
-
-
-
 #### 👷 Check out what I'm currently working on
 
 - [softleader/jib-jvm-flags-extension-maven](https://github.com/softleader/jib-jvm-flags-extension-maven) - Jib JVM Flags extension (today)

@@ -7,7 +7,7 @@
 
 - [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - An alternative Specification API for Spring Data JPA (1 week ago)
 - [softleader/jib-jvm-flags-extension-maven](https://github.com/softleader/jib-jvm-flags-extension-maven) - Jib JVM Flags extension (2 weeks ago)
-- [shihyuho/jcconf2024-jib](https://github.com/shihyuho/jcconf2024-jib) - Talk about Jib&#39;s benefits, usage, and extending its functionality. (3 weeks ago)
+- [shihyuho/jcconf2024-jib](https://github.com/shihyuho/jcconf2024-jib) - Talk about Jib&#39;s benefits, usage, and extending its functionality. (4 weeks ago)
 
 #### ⚡ My latest repositories
 

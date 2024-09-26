@@ -11,9 +11,9 @@
 
 #### ⚡ My latest repositories
 
-- [shihyuho/test](https://github.com/shihyuho/test) - 
 - [shihyuho/jcconf2024-jib](https://github.com/shihyuho/jcconf2024-jib) - Talk about Jib&#39;s benefits, usage, and extending its functionality.
 - [shihyuho/anonymous-configurer-issue](https://github.com/shihyuho/anonymous-configurer-issue) - Sample code to report to Spring team
+- [shihyuho/go-spring-version](https://github.com/shihyuho/go-spring-version) - GitHub Action to get the latest Spring version
 
 #### 🗣️ My talks
 

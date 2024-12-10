@@ -5,7 +5,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (4 days ago)
+- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (today)
 - [google/docsy](https://github.com/google/docsy) - Hugo theme for open source documentation (3 weeks ago)
 - [shihyuho/jcconf2024-jib](https://github.com/shihyuho/jcconf2024-jib) - Talk about Jib&#39;s benefits, usage, and extending its functionality. (2 months ago)
 

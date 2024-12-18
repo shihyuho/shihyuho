@@ -5,8 +5,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [softleader/fblife-f2r-poc](https://github.com/softleader/fblife-f2r-poc) - 行動保全RE優化F2R POC (1 day ago)
 - [softleader/softleader-training-course](https://github.com/softleader/softleader-training-course) - 松凌科技教育訓練專區 (5 days ago)
+- [softleader/memory-calculator](https://github.com/softleader/memory-calculator) - JVM Memory Calculator (1 week ago)
 - [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (1 week ago)
 
 #### ⚡ My latest repositories

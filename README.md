@@ -6,7 +6,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (2 weeks ago)
-- [softleader/pagination-stream](https://github.com/softleader/pagination-stream) - Steam support for Spring pagination (3 weeks ago)
+- [softleader/pagination-stream](https://github.com/softleader/pagination-stream) - Steam support for Spring pagination (4 weeks ago)
 - [softleader/softleader-training-course](https://github.com/softleader/softleader-training-course) - 松凌科技教育訓練專區 (1 month ago)
 
 #### ⚡ My latest repositories

@@ -5,7 +5,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shihyuho/resilience4j-issue](https://github.com/shihyuho/resilience4j-issue) - Sample code to report to Spring team (today)
+- [shihyuho/resilience4j-issue](https://github.com/shihyuho/resilience4j-issue) - Sample code to report to Spring team (1 day ago)
 - [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (2 weeks ago)
 - [softleader/pagination-stream](https://github.com/softleader/pagination-stream) - Steam support for Spring pagination (4 weeks ago)
 

@@ -5,8 +5,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shihyuho/resilience4j-issue](https://github.com/shihyuho/resilience4j-issue) - Sample code to report to Spring team (4 days ago)
-- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (2 weeks ago)
+- [shihyuho/resilience4j-issue](https://github.com/shihyuho/resilience4j-issue) - Sample code to report to Spring team (5 days ago)
+- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (3 weeks ago)
 - [softleader/pagination-stream](https://github.com/softleader/pagination-stream) - Steam support for Spring pagination (1 month ago)
 
 #### ⚡ My latest repositories

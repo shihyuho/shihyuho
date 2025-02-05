@@ -6,14 +6,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [softleader/dockerfile](https://github.com/softleader/dockerfile) - A collection of Dockerfile for SoftLeader (today)
-- [shihyuho/test-pr](https://github.com/shihyuho/test-pr) -  (today)
 - [shihyuho/resilience4j-issue](https://github.com/shihyuho/resilience4j-issue) - Sample code to report to Spring team (2 weeks ago)
+- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (1 month ago)
 
 #### ⚡ My latest repositories
 
-- [shihyuho/test-pr](https://github.com/shihyuho/test-pr) - 
 - [shihyuho/resilience4j-issue](https://github.com/shihyuho/resilience4j-issue) - Sample code to report to Spring team
 - [shihyuho/jcconf2024-jib](https://github.com/shihyuho/jcconf2024-jib) - Talk about Jib&#39;s benefits, usage, and extending its functionality.
+- [shihyuho/anonymous-configurer-issue](https://github.com/shihyuho/anonymous-configurer-issue) - Sample code to report to Spring team
 
 #### 🗣️ My talks
 

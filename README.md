@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [shihyuho/jcconf2024-jib](https://github.com/shihyuho/jcconf2024-jib) - Talk about Jib&#39;s benefits, usage, and extending its functionality. (today)
 - [softleader/dockerfile](https://github.com/softleader/dockerfile) - A collection of Dockerfile for SoftLeader (3 days ago)
 - [shihyuho/resilience4j-issue](https://github.com/shihyuho/resilience4j-issue) - Sample code to report to Spring team (2 weeks ago)
-- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (1 month ago)
 
 #### ⚡ My latest repositories
 

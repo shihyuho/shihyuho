@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shihyuho/go-jenkins-trigger](https://github.com/shihyuho/go-jenkins-trigger) - GitHub Action to trigger Jenkins job in Go (today)
-- [shihyuho/jcconf2024-jib](https://github.com/shihyuho/jcconf2024-jib) - Talk about Jib&#39;s benefits, usage, and extending its functionality. (2 days ago)
-- [softleader/dockerfile](https://github.com/softleader/dockerfile) - A collection of Dockerfile for SoftLeader (5 days ago)
+- [shihyuho/go-jenkins-trigger](https://github.com/shihyuho/go-jenkins-trigger) - GitHub Action to trigger Jenkins job in Go (1 day ago)
+- [shihyuho/jcconf2024-jib](https://github.com/shihyuho/jcconf2024-jib) - Talk about Jib&#39;s benefits, usage, and extending its functionality. (3 days ago)
+- [softleader/dockerfile](https://github.com/softleader/dockerfile) - A collection of Dockerfile for SoftLeader (6 days ago)
 
 #### ⚡ My latest repositories
 

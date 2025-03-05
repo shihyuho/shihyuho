@@ -5,7 +5,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (5 days ago)
+- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (today)
 - [softleader/pagination-stream](https://github.com/softleader/pagination-stream) - Steam support for Spring pagination (5 days ago)
 - [shihyuho/go-jenkins-trigger](https://github.com/shihyuho/go-jenkins-trigger) - GitHub Action to trigger Jenkins job in Go (3 weeks ago)
 

@@ -11,9 +11,9 @@
 
 #### ⚡ My latest repositories
 
+- [shihyuho/hibernate-join-fetch-issue](https://github.com/shihyuho/hibernate-join-fetch-issue) - 
 - [shihyuho/resilience4j-issue](https://github.com/shihyuho/resilience4j-issue) - Sample code to report to Spring team
 - [shihyuho/jcconf2024-jib](https://github.com/shihyuho/jcconf2024-jib) - Talk about Jib&#39;s benefits, usage, and extending its functionality.
-- [shihyuho/anonymous-configurer-issue](https://github.com/shihyuho/anonymous-configurer-issue) - Sample code to report to Spring team
 
 #### 🗣️ My talks
 

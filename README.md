@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [shihyuho/hibernate-join-fetch-issue](https://github.com/shihyuho/hibernate-join-fetch-issue) -  (today)
 - [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (1 day ago)
 - [softleader/pagination-stream](https://github.com/softleader/pagination-stream) - Steam support for Spring pagination (6 days ago)
-- [shihyuho/go-jenkins-trigger](https://github.com/shihyuho/go-jenkins-trigger) - GitHub Action to trigger Jenkins job in Go (3 weeks ago)
 
 #### ⚡ My latest repositories
 

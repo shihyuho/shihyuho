@@ -5,7 +5,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (2 days ago)
+- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (3 days ago)
 - [shihyuho/hibernate-join-fetch-issue](https://github.com/shihyuho/hibernate-join-fetch-issue) -  (2 weeks ago)
 - [softleader/pagination-stream](https://github.com/softleader/pagination-stream) - Steam support for Spring pagination (3 weeks ago)
 

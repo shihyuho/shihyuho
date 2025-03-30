@@ -5,8 +5,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [softleader/softleader-training-course](https://github.com/softleader/softleader-training-course) - 松凌科技教育訓練專區 (1 day ago)
-- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (2 days ago)
+- [softleader/softleader-training-course](https://github.com/softleader/softleader-training-course) - 松凌科技教育訓練專區 (2 days ago)
+- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (3 days ago)
 - [shihyuho/hibernate-join-fetch-issue](https://github.com/shihyuho/hibernate-join-fetch-issue) -  (3 weeks ago)
 
 #### ⚡ My latest repositories

@@ -5,15 +5,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shihyuho/test](https://github.com/shihyuho/test) -  (today)
-- [softleader/softleader-training-course](https://github.com/softleader/softleader-training-course) - 松凌科技教育訓練專區 (4 weeks ago)
-- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (4 weeks ago)
+- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (today)
+- [softleader/memory-calculator](https://github.com/softleader/memory-calculator) - JVM Memory Calculator (today)
+- [softleader/jib-jvm-flags-extension-maven](https://github.com/softleader/jib-jvm-flags-extension-maven) - Jib JVM Flags extension (today)
 
 #### ⚡ My latest repositories
 
-- [shihyuho/test](https://github.com/shihyuho/test) - 
 - [shihyuho/hibernate-join-fetch-issue](https://github.com/shihyuho/hibernate-join-fetch-issue) - 
 - [shihyuho/resilience4j-issue](https://github.com/shihyuho/resilience4j-issue) - Sample code to report to Spring team
+- [shihyuho/jcconf2024-jib](https://github.com/shihyuho/jcconf2024-jib) - Talk about Jib&#39;s benefits, usage, and extending its functionality.
 
 #### 🗣️ My talks
 

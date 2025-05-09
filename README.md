@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (1 week ago)
-- [softleader/jib-jvm-flags-extension-maven](https://github.com/softleader/jib-jvm-flags-extension-maven) - Jib JVM Flags extension (1 week ago)
-- [softleader/memory-calculator](https://github.com/softleader/memory-calculator) - JVM Memory Calculator (1 week ago)
+- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (2 weeks ago)
+- [softleader/jib-jvm-flags-extension-maven](https://github.com/softleader/jib-jvm-flags-extension-maven) - Jib JVM Flags extension (2 weeks ago)
+- [softleader/memory-calculator](https://github.com/softleader/memory-calculator) - JVM Memory Calculator (2 weeks ago)
 
 #### ⚡ My latest repositories
 

@@ -6,7 +6,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [shihyuho/jasypt-spring-boot-3.5.x-systemenv-workaround](https://github.com/shihyuho/jasypt-spring-boot-3.5.x-systemenv-workaround) - Workaround for reading encrypted system environment variables in Spring Boot 3.5.x when using Jasypt. (today)
-- [softleader/security-guardium-starter](https://github.com/softleader/security-guardium-starter) - Secure service w/ IBM Security Guardium (1 month ago)
+- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (1 month ago)
 - [softleader/pagination-stream](https://github.com/softleader/pagination-stream) - Steam support for Spring pagination (1 month ago)
 
 #### ⚡ My latest repositories

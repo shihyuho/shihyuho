@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [softleader/jib-jvm-flags-extension-maven](https://github.com/softleader/jib-jvm-flags-extension-maven) - Jib JVM Flags extension (today)
 - [softleader/memory-calculator](https://github.com/softleader/memory-calculator) - JVM Memory Calculator (today)
 - [shihyuho/jasypt-spring-boot-3.5.x-systemenv-workaround](https://github.com/shihyuho/jasypt-spring-boot-3.5.x-systemenv-workaround) - Workaround for reading encrypted system environment variables in Spring Boot 3.5.x when using Jasypt. (4 days ago)
-- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (1 month ago)
 
 #### ⚡ My latest repositories
 

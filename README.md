@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors (today)
-- [softleader/jib-jvm-flags-extension-maven](https://github.com/softleader/jib-jvm-flags-extension-maven) - Jib JVM Flags extension (2 days ago)
-- [softleader/memory-calculator](https://github.com/softleader/memory-calculator) - JVM Memory Calculator (2 days ago)
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors (1 day ago)
+- [softleader/jib-jvm-flags-extension-maven](https://github.com/softleader/jib-jvm-flags-extension-maven) - Jib JVM Flags extension (3 days ago)
+- [softleader/memory-calculator](https://github.com/softleader/memory-calculator) - JVM Memory Calculator (3 days ago)
 
 #### ⚡ My latest repositories
 

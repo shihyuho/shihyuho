@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [softleader/softleader-training-course](https://github.com/softleader/softleader-training-course) - 松凌科技教育訓練專區 (6 days ago)
-- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (6 days ago)
-- [shihyuho/jasypt-spring-boot-3.5.x-systemenv-workaround](https://github.com/shihyuho/jasypt-spring-boot-3.5.x-systemenv-workaround) - Workaround for reading encrypted system environment variables in Spring Boot 3.5.x when using Jasypt. (6 days ago)
+- [softleader/softleader-training-course](https://github.com/softleader/softleader-training-course) - 松凌科技教育訓練專區 (1 week ago)
+- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (1 week ago)
+- [shihyuho/jasypt-spring-boot-3.5.x-systemenv-workaround](https://github.com/shihyuho/jasypt-spring-boot-3.5.x-systemenv-workaround) - Workaround for reading encrypted system environment variables in Spring Boot 3.5.x when using Jasypt. (1 week ago)
 
 #### ⚡ My latest repositories
 

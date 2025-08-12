@@ -5,7 +5,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (6 days ago)
+- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (1 week ago)
 - [softleader/jenkins-pipeline-examples](https://github.com/softleader/jenkins-pipeline-examples) - A collection of examples scripting for the Jenkins Pipeline. (1 week ago)
 - [shihyuho/jasypt-spring-boot-3.5.x-systemenv-workaround](https://github.com/shihyuho/jasypt-spring-boot-3.5.x-systemenv-workaround) - Workaround for reading encrypted system environment variables in Spring Boot 3.5.x when using Jasypt. (2 weeks ago)
 

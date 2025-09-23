@@ -5,8 +5,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [softleader/pagination-stream](https://github.com/softleader/pagination-stream) - Steam support for Spring pagination (today)
 - [softleader/jib-jvm-flags-extension-maven](https://github.com/softleader/jib-jvm-flags-extension-maven) - Jib JVM Flags extension (today)
+- [softleader/pagination-stream](https://github.com/softleader/pagination-stream) - Steam support for Spring pagination (today)
 - [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (today)
 
 #### ⚡ My latest repositories

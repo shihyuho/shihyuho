@@ -7,7 +7,7 @@
 
 - [softleader/memory-calculator](https://github.com/softleader/memory-calculator) - JVM Memory Calculator (1 week ago)
 - [softleader/pagination-stream](https://github.com/softleader/pagination-stream) - Steam support for Spring pagination (4 weeks ago)
-- [softleader/jib-jvm-flags-extension-maven](https://github.com/softleader/jib-jvm-flags-extension-maven) - Jib JVM Flags extension (4 weeks ago)
+- [softleader/dockerfile](https://github.com/softleader/dockerfile) - A collection of Dockerfile for SoftLeader (4 weeks ago)
 
 #### ⚡ My latest repositories
 

@@ -6,8 +6,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [softleader/pagination-stream](https://github.com/softleader/pagination-stream) - Steam support for Spring pagination (4 days ago)
+- [CycloneDX/cyclonedx-maven-plugin](https://github.com/CycloneDX/cyclonedx-maven-plugin) - Creates CycloneDX Software Bill of Materials (SBOM) from Maven projects (1 week ago)
 - [softleader/softleader-training-course](https://github.com/softleader/softleader-training-course) - 松凌科技教育訓練專區 (1 week ago)
-- [softleader/jib-jvm-flags-extension-maven](https://github.com/softleader/jib-jvm-flags-extension-maven) - Jib JVM Flags extension (4 weeks ago)
 
 #### ⚡ My latest repositories
 

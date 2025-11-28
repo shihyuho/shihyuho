@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [softleader/pagination-stream](https://github.com/softleader/pagination-stream) - Steam support for Spring pagination (6 days ago)
+- [softleader/pagination-stream](https://github.com/softleader/pagination-stream) - Steam support for Spring pagination (1 week ago)
 - [CycloneDX/cyclonedx-maven-plugin](https://github.com/CycloneDX/cyclonedx-maven-plugin) - Creates CycloneDX Software Bill of Materials (SBOM) from Maven projects (1 week ago)
-- [softleader/softleader-training-course](https://github.com/softleader/softleader-training-course) - 松凌科技教育訓練專區 (1 week ago)
+- [softleader/softleader-training-course](https://github.com/softleader/softleader-training-course) - 松凌科技教育訓練專區 (2 weeks ago)
 
 #### ⚡ My latest repositories
 

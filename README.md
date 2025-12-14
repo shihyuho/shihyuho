@@ -5,8 +5,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [softleader/memory-calculator](https://github.com/softleader/memory-calculator) - JVM Memory Calculator (4 days ago)
-- [softleader/security-guardium-starter](https://github.com/softleader/security-guardium-starter) - Secure service w/ IBM Security Guardium (5 days ago)
+- [softleader/memory-calculator](https://github.com/softleader/memory-calculator) - JVM Memory Calculator (5 days ago)
+- [softleader/security-guardium-starter](https://github.com/softleader/security-guardium-starter) - Secure service w/ IBM Security Guardium (6 days ago)
 - [softleader/pagination-stream](https://github.com/softleader/pagination-stream) - Steam support for Spring pagination (3 weeks ago)
 
 #### ⚡ My latest repositories

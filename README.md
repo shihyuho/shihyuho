@@ -5,8 +5,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [softleader/memory-calculator](https://github.com/softleader/memory-calculator) - JVM Memory Calculator (6 days ago)
-- [softleader/dockerfile](https://github.com/softleader/dockerfile) - A collection of Dockerfile for SoftLeader (6 days ago)
+- [softleader/memory-calculator](https://github.com/softleader/memory-calculator) - JVM Memory Calculator (1 week ago)
+- [softleader/dockerfile](https://github.com/softleader/dockerfile) - A collection of Dockerfile for SoftLeader (1 week ago)
 - [softleader/security-guardium-starter](https://github.com/softleader/security-guardium-starter) - Secure service w/ IBM Security Guardium (2 weeks ago)
 
 #### ⚡ My latest repositories

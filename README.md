@@ -5,15 +5,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [shihyuho/kubectl-jqlogs](https://github.com/shihyuho/kubectl-jqlogs) - Print the JSON logs for a container in a pod (today)
 - [softleader/memory-calculator](https://github.com/softleader/memory-calculator) - JVM Memory Calculator (1 month ago)
 - [softleader/dockerfile](https://github.com/softleader/dockerfile) - A collection of Dockerfile for SoftLeader (1 month ago)
-- [softleader/security-guardium-starter](https://github.com/softleader/security-guardium-starter) - Secure service w/ IBM Security Guardium (1 month ago)
 
 #### ⚡ My latest repositories
 
+- [shihyuho/kubectl-jqlogs](https://github.com/shihyuho/kubectl-jqlogs) - Print the JSON logs for a container in a pod
 - [shihyuho/jasypt-spring-boot-3.5.x-systemenv-workaround](https://github.com/shihyuho/jasypt-spring-boot-3.5.x-systemenv-workaround) - Workaround for reading encrypted system environment variables in Spring Boot 3.5.x when using Jasypt.
 - [shihyuho/hibernate-join-fetch-issue](https://github.com/shihyuho/hibernate-join-fetch-issue) - 
-- [shihyuho/resilience4j-issue](https://github.com/shihyuho/resilience4j-issue) - Sample code to report to Spring team
 
 #### 🗣️ My talks
 

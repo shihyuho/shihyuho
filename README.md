@@ -6,7 +6,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (1 week ago)
-- [shihyuho/kubectl-jqlogs](https://github.com/shihyuho/kubectl-jqlogs) - Print the JSON logs for a container in a pod (1 week ago)
+- [shihyuho/kubectl-jqlogs](https://github.com/shihyuho/kubectl-jqlogs) - Print the JSON logs for a container in a pod (2 weeks ago)
 - [softleader/memory-calculator](https://github.com/softleader/memory-calculator) - JVM Memory Calculator (1 month ago)
 
 #### ⚡ My latest repositories

@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index) - Plugin index for https://github.com/kubernetes-sigs/krew. This repo is for plugin maintainers. (1 day ago)
+- [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (today)
 - [shihyuho/kubectl-jqlogs](https://github.com/shihyuho/kubectl-jqlogs) - Print the JSON logs for a container in a pod (1 day ago)
-- [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (4 days ago)
+- [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index) - Plugin index for https://github.com/kubernetes-sigs/krew. This repo is for plugin maintainers. (1 day ago)
 
 #### ⚡ My latest repositories
 

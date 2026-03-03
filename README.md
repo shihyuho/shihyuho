@@ -7,7 +7,7 @@
 
 - [shihyuho/opencode-command-inject](https://github.com/shihyuho/opencode-command-inject) -  (today)
 - [shihyuho/dotfiles](https://github.com/shihyuho/dotfiles) - My personal dotfiles - modular, fast, AI-friendly (today)
-- [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (1 day ago)
+- [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (today)
 
 #### ⚡ My latest repositories
 

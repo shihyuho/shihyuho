@@ -5,13 +5,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shihyuho/opencode-command-inject](https://github.com/shihyuho/opencode-command-inject) -  (today)
+- [shihyuho/opencode-command-inject](https://github.com/shihyuho/opencode-command-inject) - Turn your project commands, loaded skills into ready-to-run OpenCode commands. (today)
 - [shihyuho/dotfiles](https://github.com/shihyuho/dotfiles) - My personal dotfiles - modular, fast, AI-friendly (today)
 - [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (today)
 
 #### ⚡ My latest repositories
 
-- [shihyuho/opencode-command-inject](https://github.com/shihyuho/opencode-command-inject) - 
+- [shihyuho/opencode-command-inject](https://github.com/shihyuho/opencode-command-inject) - Turn your project commands, loaded skills into ready-to-run OpenCode commands.
 - [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills.
 - [shihyuho/dotfiles](https://github.com/shihyuho/dotfiles) - My personal dotfiles - modular, fast, AI-friendly
 

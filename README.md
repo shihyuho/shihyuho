@@ -7,7 +7,7 @@
 
 - [shihyuho/dotfiles](https://github.com/shihyuho/dotfiles) - My personal dotfiles - modular, fast, AI-friendly (1 day ago)
 - [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (1 day ago)
-- [Ivantseng123/react2issue](https://github.com/Ivantseng123/react2issue) - Reaction → AI-powered code triage → GitHub Issue. Turn chat conversations into structured issues with one emoji. (2 days ago)
+- [Ivantseng123/agentdock](https://github.com/Ivantseng123/agentdock) - Reaction → AI-powered code triage → GitHub Issue. Turn chat conversations into structured issues with one emoji. (2 days ago)
 
 #### ⚡ My latest repositories
 

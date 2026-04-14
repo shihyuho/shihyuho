@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shihyuho/dotfiles](https://github.com/shihyuho/dotfiles) - My personal dotfiles - modular, fast, AI-friendly (2 days ago)
-- [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (2 days ago)
-- [Ivantseng123/agentdock](https://github.com/Ivantseng123/agentdock) - Reaction → AI-powered code triage → GitHub Issue. Turn chat conversations into structured issues with one emoji. (3 days ago)
+- [shihyuho/dotfiles](https://github.com/shihyuho/dotfiles) - My personal dotfiles - modular, fast, AI-friendly (3 days ago)
+- [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (3 days ago)
+- [Ivantseng123/agentdock](https://github.com/Ivantseng123/agentdock) - Reaction → AI-powered code triage → GitHub Issue. Turn chat conversations into structured issues with one emoji. (4 days ago)
 
 #### ⚡ My latest repositories
 

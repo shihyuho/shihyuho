@@ -5,7 +5,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Ivantseng123/agentdock](https://github.com/Ivantseng123/agentdock) - Reaction → AI-powered code triage → GitHub Issue. Turn chat conversations into structured issues with one emoji. (today)
+- [Ivantseng123/agentdock](https://github.com/Ivantseng123/agentdock) - AI agent dispatch platform — Slack conversations → CLI agents (claude/codex/opencode) → structured GitHub Issues. Priority queue, multi-worker, dynamic skill loading. (today)
 - [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (3 days ago)
 - [shihyuho/dotfiles](https://github.com/shihyuho/dotfiles) - My personal dotfiles - modular, fast, AI-friendly (3 days ago)
 

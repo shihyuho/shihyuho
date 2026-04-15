@@ -5,8 +5,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (today)
 - [Ivantseng123/agentdock](https://github.com/Ivantseng123/agentdock) - AI agent dispatch platform — Slack conversations → CLI agents (claude/codex/opencode) → structured GitHub Issues. Priority queue, multi-worker, dynamic skill loading. (1 day ago)
-- [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (4 days ago)
 - [shihyuho/dotfiles](https://github.com/shihyuho/dotfiles) - My personal dotfiles - modular, fast, AI-friendly (4 days ago)
 
 #### ⚡ My latest repositories

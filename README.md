@@ -6,8 +6,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [shihyuho/dotfiles](https://github.com/shihyuho/dotfiles) - My personal dotfiles - modular, fast, AI-friendly (today)
-- [Ivantseng123/agentdock](https://github.com/Ivantseng123/agentdock) - AI agent dispatch platform — Slack conversations → CLI agents (claude/codex/opencode) → structured GitHub Issues. Priority queue, multi-worker, dynamic skill loading. (today)
-- [Ivantseng123/homebrew-tap](https://github.com/Ivantseng123/homebrew-tap) -  (today)
+- [Ivantseng123/agentdock](https://github.com/Ivantseng123/agentdock) - AI agent dispatch platform — Slack conversations → CLI agents (claude/codex/opencode) → structured GitHub Issues. Priority queue, multi-worker, dynamic skill loading. (1 day ago)
+- [Ivantseng123/homebrew-tap](https://github.com/Ivantseng123/homebrew-tap) -  (1 day ago)
 
 #### ⚡ My latest repositories
 

@@ -5,8 +5,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (today)
 - [shihyuho/dotfiles](https://github.com/shihyuho/dotfiles) - My personal dotfiles - modular, fast, AI-friendly (1 day ago)
-- [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (1 day ago)
 - [Ivantseng123/homebrew-tap](https://github.com/Ivantseng123/homebrew-tap) -  (5 days ago)
 
 #### ⚡ My latest repositories

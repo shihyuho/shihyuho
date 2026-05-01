@@ -5,13 +5,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shihyuho/reverie](https://github.com/shihyuho/reverie) -  (today)
+- [shihyuho/reveries](https://github.com/shihyuho/reveries) - Saves session context across /clear and /compact — so your host remembers the previous loop after a wipe. (today)
 - [shihyuho/dotfiles](https://github.com/shihyuho/dotfiles) - My personal dotfiles - modular, fast, AI-friendly (today)
 - [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (4 days ago)
 
 #### ⚡ My latest repositories
 
-- [shihyuho/reverie](https://github.com/shihyuho/reverie) - 
+- [shihyuho/reveries](https://github.com/shihyuho/reveries) - Saves session context across /clear and /compact — so your host remembers the previous loop after a wipe.
 - [shihyuho/opencode-command-inject](https://github.com/shihyuho/opencode-command-inject) - Turn your project commands, loaded skills into ready-to-run OpenCode commands.
 - [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills.
 

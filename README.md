@@ -5,15 +5,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shihyuho/reveries](https://github.com/shihyuho/reveries) - Saves session context across /clear and /compact — so your host remembers the previous loop after a wipe. (today)
-- [shihyuho/dotfiles](https://github.com/shihyuho/dotfiles) - My personal dotfiles - modular, fast, AI-friendly (today)
 - [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (today)
+- [shihyuho/dotfiles](https://github.com/shihyuho/dotfiles) - My personal dotfiles - modular, fast, AI-friendly (today)
+- [Ivantseng123/agentdock](https://github.com/Ivantseng123/agentdock) - AI agent dispatch platform — Slack conversations → CLI agents (claude/codex/opencode) → structured GitHub Issues. Priority queue, multi-worker, dynamic skill loading. (2 weeks ago)
 
 #### ⚡ My latest repositories
 
-- [shihyuho/reveries](https://github.com/shihyuho/reveries) - Saves session context across /clear and /compact — so your host remembers the previous loop after a wipe.
 - [shihyuho/opencode-command-inject](https://github.com/shihyuho/opencode-command-inject) - Turn your project commands, loaded skills into ready-to-run OpenCode commands.
 - [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills.
+- [shihyuho/dotfiles](https://github.com/shihyuho/dotfiles) - My personal dotfiles - modular, fast, AI-friendly
 
 #### 🗣️ My talks
 

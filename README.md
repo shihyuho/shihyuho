@@ -11,9 +11,9 @@
 
 #### ⚡ My latest repositories
 
+- [shihyuho/reverie](https://github.com/shihyuho/reverie) - 
 - [shihyuho/opencode-command-inject](https://github.com/shihyuho/opencode-command-inject) - Turn your project commands, loaded skills into ready-to-run OpenCode commands.
 - [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills.
-- [shihyuho/dotfiles](https://github.com/shihyuho/dotfiles) - My personal dotfiles - modular, fast, AI-friendly
 
 #### 🗣️ My talks
 

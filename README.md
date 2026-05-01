@@ -7,7 +7,7 @@
 
 - [shihyuho/reveries](https://github.com/shihyuho/reveries) - Saves session context across /clear and /compact — so your host remembers the previous loop after a wipe. (today)
 - [shihyuho/dotfiles](https://github.com/shihyuho/dotfiles) - My personal dotfiles - modular, fast, AI-friendly (today)
-- [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (4 days ago)
+- [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (today)
 
 #### ⚡ My latest repositories
 

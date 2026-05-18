@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shihyuho/dotfiles](https://github.com/shihyuho/dotfiles) - My personal dotfiles - modular, fast, AI-friendly (1 day ago)
-- [softleader/jib-jvm-flags-extension](https://github.com/softleader/jib-jvm-flags-extension) - Jib JVM Flags extension (2 days ago)
-- [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (2 days ago)
+- [softleader/pagination-stream](https://github.com/softleader/pagination-stream) - Steam support for Spring pagination (today)
+- [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (today)
+- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (today)
 
 #### ⚡ My latest repositories
 

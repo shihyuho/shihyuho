@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [softleader/pagination-stream](https://github.com/softleader/pagination-stream) - Steam support for Spring pagination (today)
-- [shihyuho/dotfiles](https://github.com/shihyuho/dotfiles) - My personal dotfiles - modular, fast, AI-friendly (today)
-- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (today)
+- [softleader/pagination-stream](https://github.com/softleader/pagination-stream) - Steam support for Spring pagination (1 day ago)
+- [shihyuho/dotfiles](https://github.com/shihyuho/dotfiles) - My personal dotfiles - modular, fast, AI-friendly (1 day ago)
+- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (1 day ago)
 
 #### ⚡ My latest repositories
 

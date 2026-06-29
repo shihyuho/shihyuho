@@ -5,15 +5,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [shihyuho/pangu.skill](https://github.com/shihyuho/pangu.skill) - Paranoid text spacing (盤古之白) for AI coding agents. (today)
 - [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (today)
 - [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (5 days ago)
-- [shihyuho/dotfiles](https://github.com/shihyuho/dotfiles) - My personal dotfiles - modular, fast, AI-friendly (1 week ago)
 
 #### ⚡ My latest repositories
 
+- [shihyuho/pangu.skill](https://github.com/shihyuho/pangu.skill) - Paranoid text spacing (盤古之白) for AI coding agents.
 - [shihyuho/opencode-command-inject](https://github.com/shihyuho/opencode-command-inject) - Turn your project commands, loaded skills into ready-to-run OpenCode commands.
 - [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills.
-- [shihyuho/dotfiles](https://github.com/shihyuho/dotfiles) - My personal dotfiles - modular, fast, AI-friendly
 
 #### 🗣️ My talks
 

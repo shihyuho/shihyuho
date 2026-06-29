@@ -6,8 +6,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [shihyuho/pangu.skill](https://github.com/shihyuho/pangu.skill) - Paranoid text spacing (盤古之白) for AI coding agents. (today)
+- [vinta/pangu.js](https://github.com/vinta/pangu.js) - Opinionated paranoid text spacing in JavaScript (today)
 - [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (today)
-- [softleader/specification-mapper](https://github.com/softleader/specification-mapper) - Specification binding API for Spring Data JPA (5 days ago)
 
 #### ⚡ My latest repositories
 

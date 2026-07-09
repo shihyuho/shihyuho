@@ -5,8 +5,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shihyuho/pangu.skill](https://github.com/shihyuho/pangu.skill) - An agent skill that brings paranoid text spacing (盤古之白) for AI coding agents. (today)
-- [shihyuho/dotfiles](https://github.com/shihyuho/dotfiles) - My personal dotfiles - modular, fast, AI-friendly (2 days ago)
+- [shihyuho/pangu.skill](https://github.com/shihyuho/pangu.skill) - An agent skill that brings paranoid text spacing (盤古之白) for AI coding agents. (1 day ago)
+- [shihyuho/dotfiles](https://github.com/shihyuho/dotfiles) - My personal dotfiles - modular, fast, AI-friendly (3 days ago)
 - [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (1 week ago)
 
 #### ⚡ My latest repositories

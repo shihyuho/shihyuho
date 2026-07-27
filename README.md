@@ -5,15 +5,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shihyuho/2026-4e4a](https://github.com/shihyuho/2026-4e4a) - 2026 4e4a (today)
 - [shihyuho/dotfiles](https://github.com/shihyuho/dotfiles) - My personal dotfiles - modular, fast, AI-friendly (1 day ago)
 - [dedene/zentty](https://github.com/dedene/zentty) - A native macOS terminal for agent-driven development, built on Ghostty. (3 days ago)
+- [shihyuho/pangu.skill](https://github.com/shihyuho/pangu.skill) - An agent skill that brings paranoid text spacing (盤古之白) for AI coding agents. (5 days ago)
 
 #### ⚡ My latest repositories
 
-- [shihyuho/2026-4e4a](https://github.com/shihyuho/2026-4e4a) - 2026 4e4a
 - [shihyuho/pangu.skill](https://github.com/shihyuho/pangu.skill) - An agent skill that brings paranoid text spacing (盤古之白) for AI coding agents.
 - [shihyuho/opencode-command-inject](https://github.com/shihyuho/opencode-command-inject) - Turn your project commands, loaded skills into ready-to-run OpenCode commands.
+- [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills.
 
 #### 🗣️ My talks
 

@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (today)
 - [shihyuho/dotfiles](https://github.com/shihyuho/dotfiles) - My personal dotfiles - modular, fast, AI-friendly (4 days ago)
 - [dedene/zentty](https://github.com/dedene/zentty) - A native macOS terminal for agent-driven development, built on Ghostty. (6 days ago)
-- [shihyuho/pangu.skill](https://github.com/shihyuho/pangu.skill) - An agent skill that brings paranoid text spacing (盤古之白) for AI coding agents. (1 week ago)
 
 #### ⚡ My latest repositories
 

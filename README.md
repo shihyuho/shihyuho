@@ -5,13 +5,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shihyuho/berth](https://github.com/shihyuho/berth) - Keep your macOS Dock at its berth (today)
+- [shihyuho/berth](https://github.com/shihyuho/berth) - Keep your Dock where it belongs. (today)
 - [shihyuho/homebrew-tap](https://github.com/shihyuho/homebrew-tap) -  (today)
 - [shihyuho/pangu.skill](https://github.com/shihyuho/pangu.skill) - An agent skill that brings paranoid text spacing (盤古之白) for AI coding agents. (1 day ago)
 
 #### ⚡ My latest repositories
 
-- [shihyuho/berth](https://github.com/shihyuho/berth) - Keep your macOS Dock at its berth
+- [shihyuho/berth](https://github.com/shihyuho/berth) - Keep your Dock where it belongs.
 - [shihyuho/pangu.skill](https://github.com/shihyuho/pangu.skill) - An agent skill that brings paranoid text spacing (盤古之白) for AI coding agents.
 - [shihyuho/homebrew-tap](https://github.com/shihyuho/homebrew-tap) - 
 

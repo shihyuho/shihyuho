@@ -5,8 +5,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shihyuho/berth](https://github.com/shihyuho/berth) - Keep your Dock where it belongs. (today)
 - [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (today)
+- [shihyuho/berth](https://github.com/shihyuho/berth) - Keep your Dock where it belongs. (today)
 - [shihyuho/opencode-command-inject](https://github.com/shihyuho/opencode-command-inject) - Turn your project commands, loaded skills into ready-to-run OpenCode commands. (1 day ago)
 
 #### ⚡ My latest repositories

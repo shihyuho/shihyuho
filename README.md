@@ -6,8 +6,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (today)
+- [Nanako0129/sepia](https://github.com/Nanako0129/sepia) - De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136). (today)
 - [shihyuho/dotfiles](https://github.com/shihyuho/dotfiles) - My personal dotfiles - modular, fast, AI-friendly (1 day ago)
-- [shihyuho/pangu.skill](https://github.com/shihyuho/pangu.skill) - An agent skill that brings paranoid text spacing (盤古之白) for AI coding agents. (2 days ago)
 
 #### ⚡ My latest repositories
 

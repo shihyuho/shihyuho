@@ -5,8 +5,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (today)
 - [softleader/dockerfile](https://github.com/softleader/dockerfile) - A collection of Dockerfile for SoftLeader (3 days ago)
-- [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (1 week ago)
 - [shihyuho/berth](https://github.com/shihyuho/berth) - Keep your Dock where it belongs. (3 weeks ago)
 
 #### ⚡ My latest repositories

@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [shihyuho/pangu.skill](https://github.com/shihyuho/pangu.skill) - An agent skill that brings paranoid text spacing (盤古之白) for AI coding agents. (today)
 - [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (1 day ago)
 - [softleader/dockerfile](https://github.com/softleader/dockerfile) - A collection of Dockerfile for SoftLeader (6 days ago)
-- [shihyuho/berth](https://github.com/shihyuho/berth) - Keep your Dock where it belongs. (3 weeks ago)
 
 #### ⚡ My latest repositories
 

@@ -5,8 +5,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shihyuho/herdr-recall](https://github.com/shihyuho/herdr-recall) - A recent &#43; fuzzy switcher for Herdr&#39;s spaces, tabs, panes and agents. (4 days ago)
-- [shihyuho/ask-a-get-b](https://github.com/shihyuho/ask-a-get-b) - 問 A 答 B、寶立答B (6 days ago)
+- [shihyuho/herdr-recall](https://github.com/shihyuho/herdr-recall) - A recent &#43; fuzzy switcher for Herdr&#39;s spaces, tabs, panes and agents. (5 days ago)
+- [shihyuho/ask-a-get-b](https://github.com/shihyuho/ask-a-get-b) - 問 A 答 B、寶立答B (1 week ago)
 - [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (2 weeks ago)
 
 #### ⚡ My latest repositories

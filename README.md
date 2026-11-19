@@ -5,15 +5,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [shihyuho/herdr-anchor](https://github.com/shihyuho/herdr-anchor) - Anchor Herdr spaces to the top of the list, safe from a stray Cmd-W. (today)
 - [shihyuho/herdr-recall](https://github.com/shihyuho/herdr-recall) - A recent &#43; fuzzy switcher for Herdr&#39;s spaces, tabs, panes and agents. (3 days ago)
 - [shihyuho/ask-a-get-b](https://github.com/shihyuho/ask-a-get-b) - 問 A 答 B、寶立答B (2 weeks ago)
-- [shihyuho/skills](https://github.com/shihyuho/skills) - Shihyu&#39;s curated collection of agent skills. (3 weeks ago)
 
 #### ⚡ My latest repositories
 
+- [shihyuho/herdr-anchor](https://github.com/shihyuho/herdr-anchor) - Anchor Herdr spaces to the top of the list, safe from a stray Cmd-W.
 - [shihyuho/ask-a-get-b](https://github.com/shihyuho/ask-a-get-b) - 問 A 答 B、寶立答B
 - [shihyuho/herdr-recall](https://github.com/shihyuho/herdr-recall) - A recent &#43; fuzzy switcher for Herdr&#39;s spaces, tabs, panes and agents.
-- [shihyuho/berth](https://github.com/shihyuho/berth) - Keep your Dock where it belongs.
 
 #### 🗣️ My talks
 

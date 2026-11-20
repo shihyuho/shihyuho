@@ -5,8 +5,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shihyuho/herdr-anchor](https://github.com/shihyuho/herdr-anchor) - Anchor Herdr spaces to the top of the list, safe from a stray Cmd-W. (today)
-- [shihyuho/herdr-recall](https://github.com/shihyuho/herdr-recall) - A recent &#43; fuzzy switcher for Herdr&#39;s spaces, tabs, panes and agents. (3 days ago)
+- [shihyuho/herdr-anchor](https://github.com/shihyuho/herdr-anchor) - Anchor Herdr spaces to the top of the list, safe from a stray Cmd-W. (1 day ago)
+- [shihyuho/herdr-recall](https://github.com/shihyuho/herdr-recall) - A recent &#43; fuzzy switcher for Herdr&#39;s spaces, tabs, panes and agents. (4 days ago)
 - [shihyuho/ask-a-get-b](https://github.com/shihyuho/ask-a-get-b) - 問 A 答 B、寶立答B (2 weeks ago)
 
 #### ⚡ My latest repositories

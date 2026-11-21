@@ -6,8 +6,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [shihyuho/pangu.skill](https://github.com/shihyuho/pangu.skill) - An agent skill that brings paranoid text spacing (盤古之白) for AI coding agents. (today)
-- [shihyuho/herdr-anchor](https://github.com/shihyuho/herdr-anchor) - Anchor Herdr spaces to the top of the list, safe from a stray Cmd-W. (1 day ago)
-- [shihyuho/herdr-recall](https://github.com/shihyuho/herdr-recall) - A recent &#43; fuzzy switcher for Herdr&#39;s spaces, tabs, panes and agents. (4 days ago)
+- [shihyuho/herdr-anchor](https://github.com/shihyuho/herdr-anchor) - Anchor Herdr spaces to the top of the list, safe from a stray Cmd-W. (2 days ago)
+- [shihyuho/herdr-recall](https://github.com/shihyuho/herdr-recall) - A recent &#43; fuzzy switcher for Herdr&#39;s spaces, tabs, panes and agents. (5 days ago)
 
 #### ⚡ My latest repositories
 
